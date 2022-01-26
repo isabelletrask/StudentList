@@ -12,6 +12,7 @@ package studentexercise;
 public class Studentexercise {
     private String name;
     private String address;
+    private String ring;
     
     public String getAddress(){
     return address;
@@ -25,6 +26,11 @@ public String getName(){
     public void setName(String name){
         this.name =name;
     }
-}
-    
 
+
+public String getRing(){
+return ring;}
+    
+public void setRing(String ring){
+this.ring =ring;}
+}
