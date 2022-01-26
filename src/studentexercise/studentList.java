@@ -11,7 +11,7 @@ package studentexercise;
  */
 public class studentList {
     public static void main(String [] args){
-    
+    int x=1;
         Studentexercise [] studentList= new Studentexercise[2];
         Studentexercise s1 = new Studentexercise();
         s1.setName("Ronak");
