@@ -1,6 +1,8 @@
 /*
  * date: January 26th 2022
  * Author: Isabelle Trask 
+ *Simple random text
+ *
  */
 package studentexercise;
 
